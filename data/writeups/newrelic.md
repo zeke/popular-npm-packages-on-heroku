@@ -1,0 +1,1 @@
+New Relic is a service for monitoring, troubleshooting, and tuning web applications. New Relic works well with Heroku, and is a [popular Heroku Add-on](https://addons.heroku.com/newrelic). The newrelic Node agent collects information about your application request volume, memory and CPU usage, and sends statistics to the New Relic service for analysis.

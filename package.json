@@ -1,0 +1,29 @@
+{
+  "private": true,
+  "name": "popular-npm-packages-on-heroku",
+  "version": "1.0.0",
+  "description": "Discovering the most popular npm packages for building web apps on Heroku today",
+  "scripts": {
+    "fetch": "node lib/fetch.js",
+    "render": "node lib/render.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "npm", "heroku", "dependencies", "popularity"
+  ],
+  "author": "zeke",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "dependencies": {
+    "async": "^0.9.0",
+    "handlebars": "^2.0.0-alpha.4",
+    "lodash": "^2.4.1",
+    "npm-stats": "^0.3.0",
+    "superagent": "^0.18.0"
+  }
+}

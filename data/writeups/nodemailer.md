@@ -1,0 +1,1 @@
+Nodemailer is a full-featured tool for sending e-mails with Node. It supports attachments, HTML and plaintext content, and Unicode. It also supports [multiple transport](https://github.com/andris9/Nodemailer#available-transports) methods like direct, SMTP, and AWS SES.

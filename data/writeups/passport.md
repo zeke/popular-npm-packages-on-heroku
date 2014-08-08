@@ -1,0 +1,1 @@
+Passport is middleware for adding OpenID and OAuth authentication to Node apps. It can be unobtrusively dropped in to any Express-based web application, and has a comprehensive set of strategies that support authentication using a username and password, Facebook, Twitter, and more.

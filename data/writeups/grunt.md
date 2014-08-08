@@ -1,0 +1,1 @@
+Grunt is tool for automating tasks like code minification, concatenating files, adding vendor prefixes to CSS, compiling preprocessed languages, watching a directory for code changes, running test, and more. Grunt has an [incredible plugin ecosystem](http://gruntjs.com/plugins) with over 3,000 plugins to date.

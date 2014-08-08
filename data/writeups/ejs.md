@@ -1,0 +1,1 @@
+EJS is a template language similar to Ruby's [erb](http://en.wikipedia.org/wiki/ERuby). EJS reads very much like HTML, and provides no special syntax for creating HTML elements. This makes EJS more verbose than other template languages such as Jade, but it's similarity to HTML makes it approachable to a wider audience of developers.

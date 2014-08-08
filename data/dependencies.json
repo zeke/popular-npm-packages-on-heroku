@@ -1,0 +1,1806 @@
+[
+  {
+    "name": "express",
+    "description": "Fast, unopinionated, minimalist web framework",
+    "keywords": [
+      "express",
+      "framework",
+      "sinatra",
+      "web",
+      "rest",
+      "restful",
+      "router",
+      "app",
+      "api"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/visionmedia/express"
+    },
+    "homepage": "https://github.com/visionmedia/express",
+    "author": {
+      "name": "TJ Holowaychuk",
+      "email": "tj@vision-media.ca"
+    },
+    "license": "MIT"
+  },
+  {
+    "name": "jade",
+    "description": "Jade template engine",
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/visionmedia/jade"
+    },
+    "homepage": "https://github.com/visionmedia/jade",
+    "author": {
+      "name": "TJ Holowaychuk",
+      "email": "tj@vision-media.ca"
+    },
+    "license": "MIT"
+  },
+  {
+    "name": "mongoose",
+    "description": "Mongoose MongoDB ODM",
+    "keywords": [
+      "mongodb",
+      "document",
+      "model",
+      "schema",
+      "database",
+      "odm",
+      "data",
+      "datastore",
+      "query",
+      "nosql",
+      "orm",
+      "db"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/LearnBoost/mongoose.git"
+    },
+    "homepage": "http://mongoosejs.com",
+    "author": {
+      "name": "Guillermo Rauch",
+      "email": "guillermo@learnboost.com"
+    }
+  },
+  {
+    "name": "request",
+    "description": "Simplified HTTP request client.",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/mikeal/request.git"
+    },
+    "homepage": "https://github.com/mikeal/request",
+    "author": {
+      "name": "Mikeal Rogers",
+      "email": "mikeal.rogers@gmail.com"
+    },
+    "license": "Apache-2.0"
+  },
+  {
+    "name": "underscore",
+    "description": "JavaScript's functional programming helper library.",
+    "keywords": [
+      "util",
+      "functional",
+      "server",
+      "client",
+      "browser"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/jashkenas/underscore.git"
+    },
+    "homepage": "http://underscorejs.org",
+    "author": {
+      "name": "Jeremy Ashkenas",
+      "email": "jeremy@documentcloud.org"
+    }
+  },
+  {
+    "name": "async",
+    "description": "Higher-order functions and common patterns for asynchronous code",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/caolan/async.git"
+    },
+    "homepage": "https://github.com/caolan/async",
+    "author": {
+      "name": "Caolan McMahon"
+    }
+  },
+  {
+    "name": "ejs",
+    "description": "Embedded JavaScript templates",
+    "keywords": [
+      "template",
+      "engine",
+      "ejs"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/visionmedia/ejs.git"
+    },
+    "homepage": "https://github.com/visionmedia/ejs",
+    "author": {
+      "name": "TJ Holowaychuk",
+      "email": "tj@vision-media.ca"
+    }
+  },
+  {
+    "name": "passport",
+    "description": "Simple, unobtrusive authentication for Node.js.",
+    "keywords": [
+      "express",
+      "connect",
+      "auth",
+      "authn",
+      "authentication"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/jaredhanson/passport.git"
+    },
+    "homepage": "http://passportjs.org/",
+    "author": {
+      "name": "Jared Hanson",
+      "email": "jaredhanson@gmail.com",
+      "url": "http://www.jaredhanson.net/"
+    }
+  },
+  {
+    "name": "socket.io",
+    "description": "node.js realtime framework server",
+    "keywords": [
+      "realtime",
+      "framework",
+      "websocket",
+      "tcp",
+      "events",
+      "socket",
+      "io"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/LearnBoost/socket.io"
+    },
+    "homepage": "https://github.com/LearnBoost/socket.io",
+    "author": {
+      "name": "Guillermo Rauch",
+      "email": "guillermo@learnboost.com"
+    }
+  },
+  {
+    "name": "mongodb",
+    "description": "A node.js driver for MongoDB",
+    "keywords": [
+      "mongodb",
+      "mongo",
+      "driver",
+      "db"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "http://github.com/mongodb/node-mongodb-native.git"
+    },
+    "homepage": "http://mongodb.github.com/node-mongodb-native/",
+    "author": {
+      "name": "Christian Amor Kvalheim",
+      "email": "christkv@gmail.com"
+    }
+  },
+  {
+    "name": "logfmt",
+    "description": "key=value logger and parser",
+    "keywords": [
+      "log",
+      "parser",
+      "logfmt"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/csquared/node-logfmt"
+    },
+    "author": {
+      "name": "csquared"
+    },
+    "license": "MIT"
+  },
+  {
+    "name": "moment",
+    "description": "Parse, manipulate, and display dates.",
+    "keywords": [
+      "moment",
+      "date",
+      "time",
+      "parse",
+      "format",
+      "validate",
+      "i18n",
+      "l10n",
+      "ender"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/moment/moment.git"
+    },
+    "homepage": "http://momentjs.com",
+    "author": {
+      "name": "Iskren Ivov Chernev",
+      "email": "iskren.chernev@gmail.com",
+      "url": "https://github.com/ichernev"
+    }
+  },
+  {
+    "name": "passport-local",
+    "description": "Local username and password authentication strategy for Passport.",
+    "keywords": [
+      "passport",
+      "local",
+      "auth",
+      "authn",
+      "authentication",
+      "username",
+      "password"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/jaredhanson/passport-local.git"
+    },
+    "author": {
+      "name": "Jared Hanson",
+      "email": "jaredhanson@gmail.com",
+      "url": "http://www.jaredhanson.net/"
+    }
+  },
+  {
+    "name": "coffee-script",
+    "description": "Unfancy JavaScript",
+    "keywords": [
+      "javascript",
+      "language",
+      "coffeescript",
+      "compiler"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/jashkenas/coffee-script.git"
+    },
+    "homepage": "http://coffeescript.org",
+    "author": {
+      "name": "Jeremy Ashkenas"
+    },
+    "license": "MIT"
+  },
+  {
+    "name": "grunt",
+    "description": "The JavaScript Task Runner",
+    "keywords": [
+      "task",
+      "async",
+      "cli",
+      "minify",
+      "uglify",
+      "build",
+      "lodash",
+      "unit",
+      "test",
+      "qunit",
+      "nodeunit",
+      "server",
+      "init",
+      "scaffold",
+      "make",
+      "jake",
+      "tool"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/gruntjs/grunt.git"
+    },
+    "homepage": "http://gruntjs.com/",
+    "author": {
+      "name": "\"Cowboy\" Ben Alman",
+      "url": "http://benalman.com/"
+    }
+  },
+  {
+    "name": "redis",
+    "description": "Redis client library",
+    "keywords": [
+      "redis",
+      "database"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/mranney/node_redis.git"
+    },
+    "homepage": "https://github.com/mranney/node_redis",
+    "author": {
+      "name": "Matt Ranney",
+      "email": "mjr@ranney.com"
+    }
+  },
+  {
+    "name": "newrelic",
+    "description": "New Relic agent",
+    "keywords": [
+      "apm",
+      "performance",
+      "monitoring",
+      "instrumentation",
+      "debugging",
+      "profiling"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/newrelic/node-newrelic.git"
+    },
+    "homepage": "http://github.com/newrelic/node-newrelic",
+    "author": {
+      "name": "New Relic Node.js agent team",
+      "email": "nodejs@newrelic.com"
+    }
+  },
+  {
+    "name": "lodash",
+    "description": "A utility library delivering consistency, customization, performance, & extras.",
+    "keywords": [
+      "amd",
+      "browser",
+      "client",
+      "customize",
+      "functional",
+      "server",
+      "util"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/lodash/lodash.git"
+    },
+    "homepage": "http://lodash.com/",
+    "author": {
+      "name": "John-David Dalton",
+      "email": "john.david.dalton@gmail.com",
+      "url": "http://allyoucanleet.com/"
+    },
+    "license": "MIT"
+  },
+  {
+    "name": "nodemailer",
+    "description": "Easy as cake e-mail sending from your Node.js applications",
+    "keywords": [
+      "e-mail",
+      "mime",
+      "email",
+      "mail",
+      "sendmail",
+      "ses",
+      "smtp"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/andris9/Nodemailer.git"
+    },
+    "homepage": "http://www.nodemailer.com",
+    "author": {
+      "name": "Andris Reinman"
+    },
+    "license": "MIT"
+  },
+  {
+    "name": "stylus",
+    "description": "Robust, expressive, and feature-rich CSS superset",
+    "keywords": [
+      "css",
+      "parser",
+      "style",
+      "stylesheets",
+      "jade",
+      "language"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/LearnBoost/stylus"
+    },
+    "homepage": "https://github.com/LearnBoost/stylus",
+    "author": {
+      "name": "TJ Holowaychuk",
+      "email": "tj@vision-media.ca"
+    },
+    "license": "MIT"
+  },
+  {
+    "name": "connect-mongo",
+    "description": "MongoDB session store for Connect",
+    "keywords": [
+      "connect",
+      "mongo",
+      "mongodb",
+      "session",
+      "express"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/kcbanner/connect-mongo.git"
+    },
+    "homepage": "https://github.com/kcbanner/connect-mongo",
+    "author": {
+      "name": "Casey Banner",
+      "email": "kcbanner@gmail.com"
+    }
+  },
+  {
+    "name": "bcrypt",
+    "description": "A bcrypt library for NodeJS.",
+    "keywords": [
+      "bcrypt",
+      "password",
+      "auth",
+      "authentication",
+      "encryption",
+      "crypt",
+      "crypto"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/ncb000gt/node.bcrypt.js.git"
+    },
+    "homepage": "https://github.com/ncb000gt/node.bcrypt.js",
+    "author": {
+      "name": "Nick Campbell",
+      "url": "https://github.com/ncb000gt"
+    }
+  },
+  {
+    "name": "pg",
+    "description": "PostgreSQL client - pure javascript & libpq with the same API",
+    "keywords": [
+      "postgres",
+      "pg",
+      "libpq",
+      "postgre",
+      "database",
+      "rdbms"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/brianc/node-postgres.git"
+    },
+    "homepage": "http://github.com/brianc/node-postgres",
+    "author": {
+      "name": "Brian Carlson",
+      "email": "brian.m.carlson@gmail.com"
+    }
+  },
+  {
+    "name": "connect",
+    "description": "High performance middleware framework",
+    "keywords": [
+      "framework",
+      "web",
+      "middleware",
+      "connect",
+      "rack"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/senchalabs/connect"
+    },
+    "homepage": "https://github.com/senchalabs/connect",
+    "author": {
+      "name": "TJ Holowaychuk",
+      "email": "tj@vision-media.ca",
+      "url": "http://tjholowaychuk.com"
+    },
+    "license": "MIT"
+  },
+  {
+    "name": "connect-flash",
+    "description": "Flash message middleware for Connect.",
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/jaredhanson/connect-flash.git"
+    },
+    "author": {
+      "name": "Jared Hanson",
+      "email": "jaredhanson@gmail.com",
+      "url": "http://www.jaredhanson.net/"
+    }
+  },
+  {
+    "name": "passport-facebook",
+    "description": "Facebook authentication strategy for Passport.",
+    "keywords": [
+      "passport",
+      "facebook",
+      "auth",
+      "authn",
+      "authentication",
+      "identity"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/jaredhanson/passport-facebook.git"
+    },
+    "author": {
+      "name": "Jared Hanson",
+      "email": "jaredhanson@gmail.com",
+      "url": "http://www.jaredhanson.net/"
+    }
+  },
+  {
+    "name": "bower",
+    "description": "The browser package manager",
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/bower/bower"
+    },
+    "homepage": "http://bower.io",
+    "author": {
+      "name": "Twitter"
+    }
+  },
+  {
+    "name": "q",
+    "description": "A library for promises (CommonJS/Promises/A,B,D)",
+    "keywords": [
+      "q",
+      "promise",
+      "promises",
+      "promises-a",
+      "promises-aplus",
+      "deferred",
+      "future",
+      "async",
+      "flow control",
+      "fluent",
+      "browser",
+      "node"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/kriskowal/q.git"
+    },
+    "homepage": "https://github.com/kriskowal/q",
+    "author": {
+      "name": "Kris Kowal",
+      "email": "kris@cixar.com",
+      "url": "https://github.com/kriskowal"
+    },
+    "license": {
+      "type": "MIT",
+      "url": "http://github.com/kriskowal/q/raw/master/LICENSE"
+    }
+  },
+  {
+    "name": "node-uuid",
+    "description": "Rigorous implementation of RFC4122 (v1 and v4) UUIDs.",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/broofa/node-uuid.git"
+    },
+    "author": {
+      "name": "Robert Kieffer",
+      "email": "robert@broofa.com"
+    }
+  },
+  {
+    "name": "connect-redis",
+    "description": "Redis session store for Connect",
+    "repository": {
+      "type": "git",
+      "url": "git@github.com:visionmedia/connect-redis.git"
+    },
+    "homepage": "https://github.com/visionmedia/connect-redis",
+    "author": {
+      "name": "TJ Holowaychuk",
+      "email": "tj@vision-media.ca"
+    }
+  },
+  {
+    "name": "winston",
+    "description": "A multi-transport async logging library for Node.js",
+    "keywords": [
+      "logging",
+      "sysadmin",
+      "tools"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/flatiron/winston.git"
+    },
+    "homepage": "https://github.com/flatiron/winston",
+    "author": {
+      "name": "Nodejitsu Inc.",
+      "email": "info@nodejitsu.com"
+    }
+  },
+  {
+    "name": "optimist",
+    "description": "Light-weight option parsing with an argv hash. No optstrings attached.",
+    "keywords": [
+      "argument",
+      "args",
+      "option",
+      "parser",
+      "parsing",
+      "cli",
+      "command"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "http://github.com/substack/node-optimist.git"
+    },
+    "homepage": "https://github.com/substack/node-optimist",
+    "author": {
+      "name": "James Halliday",
+      "email": "mail@substack.net",
+      "url": "http://substack.net"
+    },
+    "license": "MIT/X11"
+  },
+  {
+    "name": "less-middleware",
+    "description": "LESS.js middleware for connect.",
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/emberfeather/less.js-middleware.git"
+    },
+    "homepage": "https://github.com/emberfeather/less.js-middleware",
+    "author": {
+      "name": "Randy Merrill",
+      "email": "Zoramite+github@gmail.com",
+      "url": "http://forthedeveloper.com"
+    }
+  },
+  {
+    "name": "grunt-cli",
+    "description": "The grunt command line interface.",
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/gruntjs/grunt-cli.git"
+    },
+    "homepage": "http://gruntjs.com/",
+    "author": {
+      "name": "Grunt Team"
+    }
+  },
+  {
+    "name": "passport-twitter",
+    "description": "Twitter authentication strategy for Passport.",
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/jaredhanson/passport-twitter.git"
+    },
+    "author": {
+      "name": "Jared Hanson",
+      "email": "jaredhanson@gmail.com",
+      "url": "http://www.jaredhanson.net/"
+    }
+  },
+  {
+    "name": "aws-sdk",
+    "description": "AWS SDK for JavaScript",
+    "keywords": [
+      "api",
+      "amazon",
+      "aws",
+      "ec2",
+      "simpledb",
+      "s3",
+      "sqs",
+      "ses",
+      "sns",
+      "route53",
+      "rds",
+      "elasticache",
+      "cloudfront",
+      "fps",
+      "cloudformation",
+      "cloudwatch",
+      "dynamodb",
+      "iam",
+      "swf",
+      "autoscaling",
+      "cloudsearch",
+      "elb",
+      "loadbalancing",
+      "emr",
+      "mapreduce",
+      "importexport",
+      "storagegateway",
+      "workflow",
+      "ebs",
+      "vpc",
+      "beanstalk",
+      "glacier",
+      "kinesis",
+      "cloudtrail"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/aws/aws-sdk-js"
+    },
+    "homepage": "https://github.com/aws/aws-sdk-js",
+    "author": {
+      "name": "Amazon Web Services",
+      "url": "http://aws.amazon.com/"
+    }
+  },
+  {
+    "name": "validator",
+    "description": "String validation and sanitization",
+    "keywords": [
+      "validator",
+      "validation",
+      "validate",
+      "sanitization",
+      "sanitize",
+      "sanitisation",
+      "sanitise",
+      "assert"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "http://github.com/chriso/validator.js.git"
+    },
+    "homepage": "http://github.com/chriso/validator.js",
+    "author": {
+      "name": "Chris O'Hara",
+      "email": "cohara87@gmail.com"
+    }
+  },
+  {
+    "name": "cheerio",
+    "description": "Tiny, fast, and elegant implementation of core jQuery designed specifically for the server",
+    "keywords": [
+      "htmlparser",
+      "jquery",
+      "selector",
+      "scraper",
+      "parser",
+      "html"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/MatthewMueller/cheerio.git"
+    },
+    "homepage": "https://github.com/MatthewMueller/cheerio",
+    "author": {
+      "name": "Matt Mueller",
+      "email": "mattmuelle@gmail.com",
+      "url": "mat.io"
+    }
+  },
+  {
+    "name": "gzippo",
+    "description": "Gzip middleware for Connect using the native zlib library in node >= 0.6",
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/tomgco/gzippo.git"
+    },
+    "author": {
+      "name": "Tom Gallacher"
+    }
+  },
+  {
+    "name": "knox",
+    "description": "Amazon S3 client",
+    "keywords": [
+      "aws",
+      "amazon",
+      "s3"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/LearnBoost/knox.git"
+    },
+    "homepage": "https://github.com/LearnBoost/knox",
+    "author": {
+      "name": "TJ Holowaychuk",
+      "email": "tj@learnboost.com"
+    },
+    "license": "MIT"
+  },
+  {
+    "name": "crypto",
+    "description": "JavaScript implementations of standard and secure cryptographic algorithms.",
+    "keywords": [
+      "crypto",
+      "md5",
+      "sha1"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/Gozala/crypto.git",
+      "web": "https://github.com/Gozala/crypto"
+    },
+    "author": {
+      "name": "Irakli Gozalishvili",
+      "email": "rfobic@gmail.com"
+    }
+  },
+  {
+    "name": "passport-google-oauth",
+    "description": "Google (OAuth) authentication strategies for Passport.",
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/jaredhanson/passport-google-oauth.git"
+    },
+    "author": {
+      "name": "Jared Hanson",
+      "email": "jaredhanson@gmail.com",
+      "url": "http://www.jaredhanson.net/"
+    }
+  },
+  {
+    "name": "grunt-contrib-watch",
+    "description": "Run predefined tasks whenever watched file patterns are added, changed or deleted.",
+    "keywords": [
+      "gruntplugin",
+      "watch"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/gruntjs/grunt-contrib-watch.git"
+    },
+    "homepage": "https://github.com/gruntjs/grunt-contrib-watch",
+    "author": {
+      "name": "Grunt Team",
+      "url": "http://gruntjs.com/"
+    }
+  },
+  {
+    "name": "sails",
+    "description": "API-driven framework for building realtime apps, using MVC conventions (based on Express and Socket.io)",
+    "keywords": [
+      "mvc",
+      "web-framework",
+      "express",
+      "sails",
+      "sailsjs",
+      "sails.js",
+      "REST",
+      "API",
+      "orm",
+      "socket.io"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/balderdashy/sails.git"
+    },
+    "homepage": "http://sailsjs.org",
+    "author": {
+      "name": "Mike McNeil",
+      "email": "mike@balderdash.co"
+    }
+  },
+  {
+    "name": "consolidate",
+    "description": "Template engine consolidation library",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/visionmedia/consolidate.js.git"
+    },
+    "author": {
+      "name": "TJ Holowaychuk",
+      "email": "tj@vision-media.ca"
+    }
+  },
+  {
+    "name": "mysql",
+    "description": "A node.js driver for mysql. It is written in JavaScript, does not require compiling, and is 100% MIT licensed.",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/felixge/node-mysql"
+    },
+    "homepage": "https://github.com/felixge/node-mysql",
+    "author": {
+      "name": "Felix Geisendörfer",
+      "email": "felix@debuggable.com",
+      "url": "http://debuggable.com/"
+    },
+    "license": "MIT"
+  },
+  {
+    "name": "less",
+    "description": "Leaner CSS",
+    "keywords": [
+      "compile less",
+      "css nesting",
+      "css variable",
+      "css",
+      "gradients css",
+      "gradients css3",
+      "less compiler",
+      "less css",
+      "less mixins",
+      "less",
+      "less.js",
+      "lesscss",
+      "mixins",
+      "nested css",
+      "parser",
+      "preprocessor",
+      "bootstrap css",
+      "bootstrap less",
+      "style",
+      "styles",
+      "stylesheet",
+      "variables in css",
+      "css less"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/less/less.js.git"
+    },
+    "homepage": "http://lesscss.org",
+    "author": {
+      "name": "Alexis Sellier",
+      "email": "self@cloudhead.net"
+    }
+  },
+  {
+    "name": "nconf",
+    "description": "Hierarchical node.js configuration with files, environment variables, command-line arguments, and atomic object merging.",
+    "keywords": [
+      "configuration",
+      "key value store",
+      "plugabble"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "http://github.com/flatiron/nconf.git"
+    },
+    "author": {
+      "name": "Nodejitsu Inc.",
+      "email": "info@nodejitsu.com"
+    }
+  },
+  {
+    "name": "xml2js",
+    "description": "Simple XML to JavaScript object converter.",
+    "keywords": [
+      "xml",
+      "json"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/Leonidas-from-XIV/node-xml2js.git"
+    },
+    "homepage": "https://github.com/Leonidas-from-XIV/node-xml2js",
+    "author": {
+      "name": "Marek Kubica",
+      "email": "marek@xivilization.net",
+      "url": "http://xivilization.net"
+    }
+  },
+  {
+    "name": "sendgrid",
+    "description": "Official SendGrid NodeJS library.",
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/sendgrid/sendgrid-nodejs.git"
+    },
+    "homepage": "http://sendgrid.com",
+    "author": {
+      "name": "SendGrid",
+      "email": "info@sendgrid.com",
+      "url": "sendgrid.com"
+    }
+  },
+  {
+    "name": "nodetime",
+    "description": "Performance Profiler and Monitor",
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/nodetime/nodetime.git"
+    },
+    "author": {
+      "name": "Nodetime",
+      "email": "devops@nodetime.com"
+    }
+  },
+  {
+    "name": "sails-disk",
+    "description": "Persistent local-disk adapter for Sails.js / Waterline",
+    "keywords": [
+      "waterline",
+      "database",
+      "disk",
+      "sails",
+      "sails.js",
+      "sailsjs"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/balderdashy/sails-disk.git"
+    },
+    "homepage": "https://github.com/balderdashy/sails-disk",
+    "author": {
+      "name": "Mike McNeil"
+    },
+    "license": "MIT"
+  },
+  {
+    "name": "forever",
+    "description": "A simple CLI tool for ensuring that a given node script runs continuously (i.e. forever)",
+    "keywords": [
+      "cli",
+      "fault tolerant",
+      "sysadmin",
+      "tools"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "http://github.com/nodejitsu/forever.git"
+    },
+    "homepage": "https://github.com/nodejitsu/forever",
+    "author": {
+      "name": "Nodejitsu Inc.",
+      "email": "info@nodejitsu.com"
+    }
+  },
+  {
+    "name": "grunt-contrib-uglify",
+    "description": "Minify files with UglifyJS.",
+    "keywords": [
+      "gruntplugin"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/gruntjs/grunt-contrib-uglify.git"
+    },
+    "homepage": "https://github.com/gruntjs/grunt-contrib-uglify",
+    "author": {
+      "name": "Grunt Team",
+      "url": "http://gruntjs.com/"
+    }
+  },
+  {
+    "name": "nib",
+    "description": "Stylus mixins and utilities",
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/visionmedia/nib.git"
+    },
+    "homepage": "https://github.com/visionmedia/nib",
+    "author": {
+      "name": "TJ Holowaychuk",
+      "email": "tj@vision-media.ca"
+    },
+    "license": "MIT"
+  },
+  {
+    "name": "handlebars",
+    "description": "Handlebars provides the power necessary to let you build semantic templates effectively with no frustration",
+    "keywords": [
+      "handlebars",
+      "mustache",
+      "template",
+      "html"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/wycats/handlebars.js.git"
+    },
+    "homepage": "http://www.handlebarsjs.com/",
+    "author": {
+      "name": "Yehuda Katz"
+    },
+    "license": "MIT"
+  },
+  {
+    "name": "grunt-contrib-copy",
+    "description": "Copy files and folders.",
+    "keywords": [
+      "gruntplugin"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/gruntjs/grunt-contrib-copy.git"
+    },
+    "homepage": "https://github.com/gruntjs/grunt-contrib-copy",
+    "author": {
+      "name": "Grunt Team",
+      "url": "http://gruntjs.com/"
+    }
+  },
+  {
+    "name": "express-validator",
+    "description": "Express middleware for the validator module.",
+    "keywords": [
+      "express",
+      "validator",
+      "validation",
+      "validate",
+      "sanitize",
+      "sanitization",
+      "xss"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/ctavan/express-validator.git"
+    },
+    "homepage": "https://github.com/ctavan/express-validator",
+    "author": {
+      "name": "Christoph Tavan",
+      "email": "dev@tavan.de"
+    }
+  },
+  {
+    "name": "grunt-contrib-clean",
+    "description": "Clean files and folders.",
+    "keywords": [
+      "gruntplugin"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/gruntjs/grunt-contrib-clean.git"
+    },
+    "homepage": "https://github.com/gruntjs/grunt-contrib-clean",
+    "author": {
+      "name": "Grunt Team",
+      "url": "http://gruntjs.com/"
+    }
+  },
+  {
+    "name": "grunt-contrib-concat",
+    "description": "Concatenate files.",
+    "keywords": [
+      "gruntplugin"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/gruntjs/grunt-contrib-concat.git"
+    },
+    "homepage": "https://github.com/gruntjs/grunt-contrib-concat",
+    "author": {
+      "name": "Grunt Team",
+      "url": "http://gruntjs.com/"
+    }
+  },
+  {
+    "name": "colors",
+    "description": "get colors in your node.js console like what",
+    "repository": {
+      "type": "git",
+      "url": "http://github.com/Marak/colors.js.git"
+    },
+    "author": {
+      "name": "Marak Squires"
+    }
+  },
+  {
+    "name": "restify",
+    "description": "REST framework",
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/mcavage/node-restify.git"
+    },
+    "homepage": "http://mcavage.github.com/node-restify",
+    "author": {
+      "name": "Mark Cavage",
+      "email": "mcavage@gmail.com"
+    }
+  },
+  {
+    "name": "ejs-locals",
+    "description": "Express 3.x locals for layout, partial and blocks.",
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/randometc/ejs-locals.git"
+    },
+    "author": {
+      "name": "Tom Carden",
+      "email": "tom@tom-carden.co.uk"
+    }
+  },
+  {
+    "name": "passport-github",
+    "description": "GitHub authentication strategy for Passport.",
+    "repository": {
+      "type": "git",
+      "url": "http://github.com/jaredhanson/passport-github.git"
+    },
+    "author": {
+      "name": "Jared Hanson",
+      "email": "jaredhanson@gmail.com",
+      "url": "http://www.jaredhanson.net/"
+    }
+  },
+  {
+    "name": "mocha",
+    "description": "simple, flexible, fun test framework",
+    "keywords": [
+      "mocha",
+      "test",
+      "bdd",
+      "tdd",
+      "tap"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/visionmedia/mocha.git"
+    },
+    "homepage": "https://github.com/visionmedia/mocha",
+    "author": {
+      "name": "TJ Holowaychuk",
+      "email": "tj@vision-media.ca"
+    }
+  },
+  {
+    "name": "view-helpers",
+    "description": "View helper methods for expressjs and other node stuff",
+    "keywords": [
+      "helpers",
+      "views",
+      "express"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/madhums/node-view-helpers.git"
+    },
+    "homepage": "https://github.com/madhums/node-view-helpers",
+    "author": {
+      "name": "Madhusudhan Srinivasa"
+    },
+    "license": "MIT"
+  },
+  {
+    "name": "grunt-contrib-jshint",
+    "description": "Validate files with JSHint.",
+    "keywords": [
+      "gruntplugin"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/gruntjs/grunt-contrib-jshint.git"
+    },
+    "homepage": "https://github.com/gruntjs/grunt-contrib-jshint",
+    "author": {
+      "name": "Grunt Team",
+      "url": "http://gruntjs.com/"
+    }
+  },
+  {
+    "name": "csv",
+    "description": "CSV parser with simple api, full of options and tested against large datasets.",
+    "keywords": [
+      "node",
+      "parser",
+      "csv"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/wdavidw/node-csv.git"
+    },
+    "homepage": "http://www.adaltas.com/projects/node-csv/",
+    "author": {
+      "name": "David Worms",
+      "email": "david@adaltas.com",
+      "url": "http://www.adaltas.com"
+    }
+  },
+  {
+    "name": "ws",
+    "description": "simple to use, blazing fast and thoroughly tested websocket client, server and console for node.js, up-to-date against RFC-6455",
+    "keywords": [
+      "Hixie",
+      "HyBi",
+      "Push",
+      "RFC-6455",
+      "WebSocket",
+      "WebSockets",
+      "real-time"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/einaros/ws.git"
+    },
+    "homepage": "https://github.com/einaros/ws",
+    "author": {
+      "name": "Einar Otto Stangvik",
+      "email": "einaros@gmail.com",
+      "url": "http://2x.io"
+    }
+  },
+  {
+    "name": "oauth",
+    "description": "Library for interacting with OAuth 1.0, 1.0A, 2 and Echo.  Provides simplified client access and allows for construction of more complex apis and OAuth providers.",
+    "repository": {
+      "type": "git",
+      "url": "http://github.com/ciaranj/node-oauth.git"
+    },
+    "homepage": "https://github.com/ciaranj/node-oauth",
+    "author": {
+      "name": "Ciaran Jessup",
+      "email": "ciaranj@gmail.com"
+    }
+  },
+  {
+    "name": "sequelize",
+    "description": "Multi dialect ORM for Node.JS",
+    "keywords": [
+      "mysql",
+      "orm",
+      "nodejs",
+      "object relational mapper"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/sequelize/sequelize.git"
+    },
+    "homepage": "https://github.com/sequelize/sequelize",
+    "author": {
+      "name": "Sascha Depold",
+      "email": "sascha@depold.com"
+    },
+    "license": "MIT"
+  },
+  {
+    "name": "underscore.string",
+    "description": "String manipulation extensions for Underscore.js javascript library.",
+    "keywords": [
+      "underscore",
+      "string"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/epeli/underscore.string.git"
+    },
+    "homepage": "http://epeli.github.com/underscore.string/"
+  },
+  {
+    "name": "hbs",
+    "description": "Express.js template engine plugin for Handlebars",
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/donpark/hbs.git"
+    },
+    "homepage": "https://github.com/donpark/hbs",
+    "author": {
+      "name": "Don Park",
+      "email": "donpark@docuverse.com",
+      "url": "http://blog.docuverse.com"
+    }
+  },
+  {
+    "name": "express3-handlebars",
+    "description": "A Handlebars view engine for Express which doesn't suck.",
+    "keywords": [
+      "express",
+      "express3",
+      "handlebars",
+      "view",
+      "layout",
+      "partials"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/ericf/express3-handlebars.git"
+    },
+    "homepage": "https://github.com/ericf/express3-handlebars",
+    "author": {
+      "name": "Eric Ferraiuolo",
+      "email": "eferraiuolo@gmail.com",
+      "url": "http://ericf.me/"
+    }
+  },
+  {
+    "name": "cron",
+    "description": "Cron jobs for your node",
+    "repository": {
+      "type": "git",
+      "url": "http://github.com/ncb000gt/node-cron.git"
+    },
+    "homepage": "https://github.com/ncb000gt/node-cron",
+    "author": {
+      "name": "Nick Campbell",
+      "email": "nicholas.j.campbell@gmail.com",
+      "url": "http://github.com/ncb000gt"
+    }
+  },
+  {
+    "name": "marked",
+    "description": "A markdown parser built for speed",
+    "keywords": [
+      "markdown",
+      "markup",
+      "html"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/chjj/marked.git"
+    },
+    "homepage": "https://github.com/chjj/marked",
+    "author": {
+      "name": "Christopher Jeffrey"
+    },
+    "license": "MIT"
+  },
+  {
+    "name": "twilio",
+    "description": "A Twilio helper library",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/twilio/twilio-node.git"
+    },
+    "author": {
+      "name": "Kevin Whinnery",
+      "email": "kevin.whinnery@gmail.com"
+    }
+  },
+  {
+    "name": "passport-google",
+    "description": "Google (OpenID) authentication strategy for Passport.",
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/jaredhanson/passport-google.git"
+    },
+    "author": {
+      "name": "Jared Hanson",
+      "email": "jaredhanson@gmail.com",
+      "url": "http://www.jaredhanson.net/"
+    }
+  },
+  {
+    "name": "mime",
+    "description": "A comprehensive library for mime-type mapping",
+    "repository": {
+      "url": "https://github.com/broofa/node-mime",
+      "type": "git"
+    },
+    "author": {
+      "name": "Robert Kieffer",
+      "email": "robert@broofa.com",
+      "url": "http://github.com/broofa"
+    }
+  },
+  {
+    "name": "swig",
+    "description": "A simple, powerful, and extendable templating engine for node.js and browsers, similar to Django, Jinja2, and Twig.",
+    "keywords": [
+      "template",
+      "templating",
+      "html",
+      "django",
+      "jinja",
+      "twig",
+      "express",
+      "block"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "http://github.com/paularmstrong/swig.git"
+    },
+    "homepage": "https://github.com/paularmstrong/swig",
+    "author": {
+      "name": "Paul Armstrong",
+      "email": "paul@paularmstrongdesigns.com"
+    },
+    "license": "MIT"
+  },
+  {
+    "name": "hiredis",
+    "description": "Wrapper for reply processing code in hiredis",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/redis/hiredis-node.git"
+    },
+    "homepage": "http://github.com/redis/hiredis-node",
+    "author": {
+      "name": "Pieter Noordhuis",
+      "email": "pcnoordhuis@gmail.com"
+    }
+  },
+  {
+    "name": "uglify-js",
+    "description": "JavaScript parser, mangler/compressor and beautifier toolkit",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/mishoo/UglifyJS2.git"
+    },
+    "homepage": "http://lisperator.net/uglifyjs"
+  },
+  {
+    "name": "connect-assets",
+    "description": "A Rails-like asset pipeline for Connect",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/adunkman/connect-assets.git"
+    },
+    "homepage": "https://github.com/adunkman/connect-assets",
+    "author": {
+      "name": "Andrew Dunkman",
+      "email": "andrew@dunkman.org"
+    }
+  },
+  {
+    "name": "mongojs",
+    "description": "Easy to use module that implements the mongo api",
+    "keywords": [
+      "mongo",
+      "db",
+      "mongodb"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/mafintosh/mongojs.git"
+    },
+    "homepage": "https://github.com/mafintosh/mongojs",
+    "author": {
+      "name": "Mathias Buus Madsen",
+      "email": "mathiasbuus@gmail.com"
+    }
+  },
+  {
+    "name": "jsdom",
+    "description": "A JavaScript implementation of the DOM and HTML standards",
+    "keywords": [
+      "dom",
+      "html",
+      "whatwg",
+      "w3c"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/tmpvar/jsdom.git"
+    },
+    "homepage": "https://github.com/tmpvar/jsdom",
+    "license": {
+      "type": "MIT",
+      "url": "http://github.com/tmpvar/jsdom/blob/master/LICENSE.txt"
+    }
+  },
+  {
+    "name": "gm",
+    "description": "GraphicsMagick and ImageMagick for node.js",
+    "keywords": [
+      "graphics",
+      "magick",
+      "image",
+      "graphicsmagick",
+      "imagemagick",
+      "gm",
+      "convert",
+      "identify",
+      "compare"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/aheckmann/gm.git"
+    },
+    "homepage": "https://github.com/aheckmann/gm",
+    "author": {
+      "name": "Aaron Heckmann",
+      "email": "aaron.heckmann+github@gmail.com"
+    },
+    "license": "MIT"
+  },
+  {
+    "name": "twit",
+    "description": "Twitter API client for node (REST & Streaming)",
+    "keywords": [
+      "twitter",
+      "api",
+      "rest",
+      "stream",
+      "streaming",
+      "oauth"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "http://github.com/ttezel/twit.git"
+    },
+    "homepage": "https://github.com/ttezel/twit",
+    "author": {
+      "name": "Tolga Tezel"
+    }
+  },
+  {
+    "name": "debug",
+    "description": "small debugging utility",
+    "keywords": [
+      "debug",
+      "log",
+      "debugger"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/visionmedia/debug.git"
+    },
+    "homepage": "https://github.com/visionmedia/debug",
+    "author": {
+      "name": "TJ Holowaychuk",
+      "email": "tj@vision-media.ca"
+    }
+  },
+  {
+    "name": "cloudinary",
+    "description": "Cloudinary NPM for node.js integration",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/cloudinary/cloudinary_npm.git"
+    },
+    "homepage": "http://cloudinary.com",
+    "author": {
+      "name": "Cloudinary",
+      "email": "info@cloudinary.com"
+    }
+  },
+  {
+    "name": "mandrill-api",
+    "description": "The official API client for the Mandrill email as a service product.",
+    "repository": {
+      "type": "git",
+      "url": "git@bitbucket.org:mailchimp/mandrill-api-node.git"
+    },
+    "homepage": "https://bitbucket.org/mailchimp/mandrill-api-node",
+    "author": {
+      "name": "Mandrill Devs",
+      "email": "community@mandrill.com",
+      "url": "http://mandrill.com"
+    }
+  },
+  {
+    "name": "stripe",
+    "description": "Stripe API wrapper",
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/stripe/stripe-node.git"
+    },
+    "homepage": "https://github.com/stripe/stripe-node",
+    "author": {
+      "name": "Stripe",
+      "email": "james@stripe.com",
+      "url": "https://stripe.com/"
+    }
+  },
+  {
+    "name": "should",
+    "description": "test framework agnostic BDD-style assertions",
+    "keywords": [
+      "test",
+      "bdd",
+      "assert"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/shouldjs/should.js.git"
+    },
+    "homepage": "https://github.com/shouldjs/should.js",
+    "author": {
+      "name": "TJ Holowaychuk",
+      "email": "tj@vision-media.ca"
+    },
+    "license": "MIT"
+  },
+  {
+    "name": "node-static",
+    "description": "simple, compliant file streaming module for node",
+    "keywords": [
+      "http",
+      "static",
+      "file",
+      "server"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "http://github.com/cloudhead/node-static"
+    },
+    "homepage": "https://github.com/cloudhead/node-static",
+    "author": {
+      "name": "Alexis Sellier",
+      "email": "self@cloudhead.net"
+    },
+    "license": "MIT"
+  },
+  {
+    "name": "jquery",
+    "description": "JavaScript library for DOM operations",
+    "keywords": [
+      "jquery",
+      "javascript",
+      "browser",
+      "library"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/jquery/jquery.git"
+    },
+    "homepage": "http://jquery.com",
+    "author": {
+      "name": "jQuery Foundation and other contributors",
+      "url": "https://github.com/jquery/jquery/blob/2.1.1/AUTHORS.txt"
+    }
+  },
+  {
+    "name": "path",
+    "description": "Node.JS path module",
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/coolaj86/nodejs-libs-4-browser.git"
+    },
+    "author": {
+      "name": "Joyent",
+      "url": "http://www.joyent.com"
+    }
+  },
+  {
+    "name": "passport-http",
+    "description": "HTTP Basic and Digest authentication strategies for Passport.",
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/jaredhanson/passport-http.git"
+    },
+    "author": {
+      "name": "Jared Hanson",
+      "email": "jaredhanson@gmail.com",
+      "url": "http://www.jaredhanson.net/"
+    }
+  },
+  {
+    "name": "redis-url",
+    "description": "Use a REDIS_URL to connect to Redis",
+    "author": {
+      "name": "David Dollar",
+      "email": "ddollar@gmail.com"
+    }
+  },
+  {
+    "name": "superagent",
+    "description": "elegant & feature rich browser / node HTTP with a fluent API",
+    "keywords": [
+      "http",
+      "ajax",
+      "request",
+      "agent"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/visionmedia/superagent.git"
+    },
+    "homepage": "https://github.com/visionmedia/superagent",
+    "author": {
+      "name": "TJ Holowaychuk",
+      "email": "tj@vision-media.ca"
+    }
+  },
+  {
+    "name": "grunt-contrib-cssmin",
+    "description": "Compress CSS files.",
+    "keywords": [
+      "gruntplugin",
+      "cssmin"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/gruntjs/grunt-contrib-cssmin.git"
+    },
+    "homepage": "https://github.com/gruntjs/grunt-contrib-cssmin",
+    "author": {
+      "name": "Grunt Team",
+      "url": "http://gruntjs.com/"
+    }
+  },
+  {
+    "name": "sails-mongo",
+    "description": "Mongo DB adapter for Sails.js",
+    "keywords": [
+      "mongo",
+      "orm",
+      "waterline",
+      "sails"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "git://github.com/balderdashy/sails-mongo.git"
+    },
+    "homepage": "https://github.com/balderdashy/sails-mongo",
+    "license": "MIT"
+  }
+]
