@@ -18,7 +18,7 @@ Read the post at [SOON]..
 npm install
 npm run fetch
 npm run render
-cat report.md
+cat blog-post.md
 ```
 
 ## License
