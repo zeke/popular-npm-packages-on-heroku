@@ -2,6 +2,8 @@
 
 This project was created to help compile a blog post about the most popular npm dependencies on Heroku.
 
+[Read the post](blog-post.md)
+
 ## Innards
 
 - [superagent](https://github.com/visionmedia/superagent) is an elegant HTTP client for Node and browsers. It's used to download the dependency list from a [Heroku Dataclip](https://dataclips.heroku.com/nxnfcvnlruhzzawvenwcvronnowx#nomnom-Top-100-dependencies).
